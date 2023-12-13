@@ -79,3 +79,30 @@ WPF (Windows Presentation Foundation) é uma estrutura de desenvolvimento de int
     <TextBlock Text="{Binding MinhaPessoa.Nome}" />
     ```
 
+# CARACTERÍSTICAS
+## POSITIVAS:
+- **Rica Experiência de Usuário:** WPF oferece uma experiência de usuário rica, permitindo a criação de interfaces gráficas atraentes e interativas.
+
+- **XAML (Extensible Application Markup Language):** Utiliza XAML para a definição de interfaces de usuário, proporcionando uma separação clara entre a lógica de apresentação e o código subjacente.
+
+- **Data Binding:** Oferece um poderoso mecanismo de data binding, facilitando a sincronização automática entre a interface gráfica e os dados subjacentes.
+
+- **Estilo e Templating:** Possui recursos avançados de estilo e templating, permitindo uma personalização flexível da aparência dos elementos da interface.
+
+- **Suporte a Gráficos 2D e 3D:** Além de interfaces convencionais, WPF suporta gráficos 2D e 3D, oferecendo recursos avançados para visualização de dados e modelagem tridimensional.
+
+- **Integração com o Ecossistema .NET:** Totalmente integrado com o ecossistema .NET, permitindo o uso conjunto com outras tecnologias e bibliotecas da plataforma.
+
+## NEGATIVAS:
+- **Curva de Aprendizado:** Para desenvolvedores iniciantes, a curva de aprendizado pode ser íngreme, especialmente ao se familiarizar com o XAML e conceitos avançados.
+
+- **Requisitos de Hardware:** Aplicações WPF podem demandar requisitos de hardware mais substanciais, especialmente ao lidar com recursos gráficos intensivos.
+
+- **Compatibilidade Limitada com Outras Plataformas:** A natureza do WPF o torna mais orientado para o ambiente Windows, limitando a compatibilidade com outras plataformas.
+
+- **Descontinuação Potencial:** Com a evolução das tecnologias Microsoft, há discussões sobre o possível foco em outras tecnologias, o que pode levar a preocupações sobre o futuro do WPF.
+
+- **Ferramentas de Design Poderosas, mas Pesadas:** As ferramentas de design integradas, como o Microsoft Blend, podem ser poderosas, mas também podem ser pesadas para usuários com necessidades mais simples.
+
+- **Custo de Licenciamento:** Dependendo das necessidades, o custo de licenciamento para ferramentas e ambientes de desenvolvimento pode ser um fator a ser considerado.
+
