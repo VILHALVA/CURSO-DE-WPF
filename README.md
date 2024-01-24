@@ -2,15 +2,9 @@
 👨‍⚖️WPF SIGNIFICA WINDOWS PRESENTATION FOUNDATION. É UMA TECNOLOGIA DA MICROSOFT PARA CRIAR INTERFACES GRÁFICAS DE USUÁRIO EM APLICATIVOS WINDOWS.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=WPF)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://docs.microsoft.com/pt-br/dotnet/desktop-wpf/) 
-[![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-C-SHARP) <br>
-
+[![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-C-SHARP)
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLih2KERbY1HHOOJ2C6FOrVXIwg4AZ-hk1&si=a-ana-M3MNpsbsHi)
-
-<img src="https://www.euvic.com/wp-content/uploads/2021/05/7-dot-net-technologies.png" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # CONCEITO:
 WPF (Windows Presentation Foundation) é uma estrutura de desenvolvimento de interface gráfica para aplicativos Windows. Ele fornece uma maneira poderosa e flexível de criar interfaces de usuário ricas e interativas. Vamos começar com alguns conceitos fundamentais:
